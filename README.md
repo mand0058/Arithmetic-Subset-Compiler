@@ -1,5 +1,3 @@
-# Arithmetic-Subset-Compiler
-Arithmetic subset compiler that performs tokenization and syntax validation using Lex/Flex and K Framework. Includes automation script and sample test programs.
 # Arithmetic Subset Compiler
 
 A simplified compiler designed to analyze and validate arithmetic expressions.  
